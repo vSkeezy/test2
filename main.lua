@@ -9,7 +9,7 @@ local GITHUB_USERNAME = "vSkeezy" -- <<<<< DEIN GITHUB BENUTZERNAME
 local REPO_NAME = "test2" -- <<<<< DEIN REPOSITORY NAME
 
 -- Dein GitHub Personal Access Token mit 'repo' und 'workflow' Berechtigungen!
-local GITHUB_TOKEN = "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" -- <<<<< DEIN TOKEN
+local GITHUB_TOKEN = "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" -- <<<<< DEIN TOKEN
 
 -- Die Dateien, die wir nutzen
 local COMMANDS_FILE_PATH = "commands.json"
